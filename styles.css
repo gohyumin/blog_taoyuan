@@ -83,7 +83,6 @@ footer {
 	position: relative;
 }
 
-/* 在音乐播放器里添加小图片 */
 .music-player::before {
 	content: '';
 	position: absolute;
@@ -92,7 +91,7 @@ footer {
 	transform: translate(-50%, -50%);
 	width: 30px;
 	height: 30px;
-	background-image: url('images/logo.png');
+	background-image: url('images/footer.png');
 	background-size: contain;
 	background-repeat: no-repeat;
 	background-position: center;
