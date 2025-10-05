@@ -128,7 +128,7 @@ footer {
 }
 
 .custom-audio-player::-webkit-media-controls-play-button {
-	background: transparent;
+	background-image: url(images/footer.png);
 	border-radius: 50%;
 	color: white;
 }
